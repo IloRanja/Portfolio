@@ -21,10 +21,10 @@ html, body {
     align-items: center;
 }
 
-.container{
-    width: 1170px;
+/*.container{
+   /* width: 1170px;
     margin: 0 auto;
-}
+}*/
 .header .navbar {
     position: fixed;
     top: 0;
@@ -77,9 +77,10 @@ html, body {
 }
 
 .header .home{
-    text-align: center;
+    text-align: left;
     color: #fff;
     /*margin-top: 73px;*/
+    margin: 0;
     padding-top: 99px;
 }
 .header .home h3{
@@ -87,8 +88,6 @@ html, body {
     font-size: 40px;
     font-weight: 400;
     font-style: italic;
-    margin: 0;
-
 }
 .header .home h2{
     font-family: 'Roboto Slab',sans-serif;
