@@ -11,6 +11,7 @@
     "type-check": "vue-tsc --build"
   },
   "dependencies": {
+    "@lottiefiles/dotlottie-vue": "^0.11.27",
     "bootstrap": "^5.3.8",
     "lucide-vue-next": "^1.0.0",
     "vue": "beta",

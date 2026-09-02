@@ -7,7 +7,7 @@
             <div class="justify-center item-center">
                 <div>
                     RAMAROSANDY Elisoa<br/>
-                    Développeur Web<br/>
+                    Développeur Web Front-End/Back-End<br/>
                     N'hésitez pas à me contacter pour discuter de vos projets, ou autre je suis ouverte a tous les proposition<br/>
                     Me contacter par<br/>
                 </div>
